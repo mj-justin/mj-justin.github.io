@@ -7,7 +7,7 @@ title: About
 
 # Greetings #
 
-I'm a embedded systems and software engineer living in Santa Cruz, CA. I currently work at [Beyond Circuits](https://www.beyond-circuits.com/wordpress/), doing research and development on flow cytometers based around a multi-FPGA system orchestrated from several embedded processors running Linux.
+I’m a embedded software engineer living in Santa Cruz, CA. I currently work at Joby Aviation.
 
 ## Contact ##
 
